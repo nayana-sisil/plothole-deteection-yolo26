@@ -1,4 +1,4 @@
-﻿# Pothole Detection via YOLO Multi-Scale Architecture
+﻿# Pothole Detection via YOLO Multi Scale Architecture
 
 ## Abstract
 This repository contains an implementation of a real time pothole detection system utilizing the Ultralytics YOLO framework. The model is optimized for edge deployment on central processing units (CPUs) by leveraging a native end to end, NMS free architecture.
